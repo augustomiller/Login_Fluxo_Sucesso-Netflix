@@ -1,6 +1,6 @@
 # Login - Fluxo de Sucesso com Selenide & Selenium 🤖 ✅
 
-Validar a funcionalidade de autenticação do utilizador de forma automatizada.
+Validar a funcionalidade de autenticação do utilizador na Platarma Netflix e garantir que ele está na área logada de forma automatizada. Utilizando uma abordagem bem simples, sem nenhum uso de padrões como Page Object.
 
 ## Cenário
 
